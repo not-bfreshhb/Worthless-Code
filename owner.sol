@@ -17,7 +17,6 @@ contract Owner {
     modifier isOwner() {
         // If the first argument of 'require' evaluates to 'false', execution terminates and all
         // changes to the state and to Ether balances are reverted.
-        // This used to consume all gas in old EVM versions, but not anymore.
         require(msg.sender == owner, "Caller is not owner");
         _;
     }
