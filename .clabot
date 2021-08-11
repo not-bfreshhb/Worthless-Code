@@ -1,7 +1,7 @@
 {
   "contributors": ["bfreshhb"],
-  "message": "We require contributors to sign our Contributor License Agreement. In order for us to review and merge your code, please sign the attached document to get yourself added.
-If you're an independent Individual please sign this form: https://drive.google.com/file/d/1HINvBJUmTMNyoE1kznu7xGc4ZJFtx9_C/view?usp=sharing
-If you're with a company (corporate) please sign this form:  https://drive.google.com/file/d/13loevDPZVbxSPU7UZOWbyayvVGE8ryvO/view?usp=sharing
-To agree to this license, please fill out and sign the form at the bottom of this document, scan and send a PDF to info@offchainlabs.com."
+  "message": "We require contributors to sign our Contributor License Agreement. In order for us to review and merge your code, please sign the attached document to get yourself added."
+  "message": "If you're an independent Individual please sign this form: https://drive.google.com/file/d/1HINvBJUmTMNyoE1kznu7xGc4ZJFtx9_C/view?usp=sharing"
+  "message": "If you're with a company (corporate) please sign this form:  https://drive.google.com/file/d/13loevDPZVbxSPU7UZOWbyayvVGE8ryvO/view?usp=sharing"
+  "message": "To agree to this license, please fill out and sign the form at the bottom of this document, scan and send a PDF to info@offchainlabs.com."
 }
